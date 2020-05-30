@@ -1,0 +1,14 @@
+{
+    "primary_color": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+    },
+    "secondary_color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "cpu_frequency": 60,
+    "fullscreen": false
+}
